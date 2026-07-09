@@ -1,4 +1,4 @@
-<Doctype html>
+<!Doctype html>
 <html>
 <Head>
 <title> Barry First Cloud Website</title>
