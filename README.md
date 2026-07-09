@@ -1,19 +1,13 @@
-<!Doctype html>
-<html>
-<Head>
-<title> Barry First Cloud Website</title>
-<Body>
-<body style="background-color:gold;color:red">
+# Welcome to Cloud Computing
+Name: Lerasi Barididum
 
-<h1 style color="color:green;">Welcome to cloud Computing</h1>
-
-<p style="color:indigo;">Name: Lerasi Barididum</a>
-
-<p style="color:magenta;"> Department: Electronics Engineering</p> 
-<p style="color:blue;"> Mat Number: U2020/3020057</p>
-<em><p style="text-align:center;color:green;">This Website was deploy using gitgub</em>
-</p>
-<body/>
+Matriculation Number: U2020/3020057
 
 
-</html>
+
+<br>Name: Emmanuel A. Ogbu</br>
+
+Matriculation Number: U2020/3020070
+
+
+<br><em>This Website was deployed using Github page</em></br>
